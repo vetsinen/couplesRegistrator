@@ -1,0 +1,22 @@
+{
+  "name": "couplesregistrator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vetsinen/couplesRegistrator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vetsinen/couplesRegistrator/issues"
+  },
+  "homepage": "https://github.com/vetsinen/couplesRegistrator#readme",
+  "dependencies": {
+    "sentence-case": "^3.0.4"
+  }
+}
